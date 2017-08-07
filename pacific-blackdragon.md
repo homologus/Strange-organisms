@@ -1,11 +1,17 @@
 # Pacific blackdragon
 ## Basic information
 *Information collected from Fishbase*
+
 **Scientific Name:** Idiacanthus antrostomus
+
 **Tree Location:** Animalia > Chordata > Actinopterygii > Stomiiformes > Stomiidae > Idiacanthus
+
 **Size:** Females to 61cm; Males to 8cm
+
 **Depth:** Midwater (100-1000m); Below 400m at night
+
 **Diet:** Crustaceans, shrimp, fish
+
 ## Questions
 * How did they evolve to get so black?
 * Why is there such extreme sexual dimorphism?
