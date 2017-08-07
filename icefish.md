@@ -7,8 +7,8 @@
 # Description of Icefish
 [Information about Icefish](https://www.britannica.com/animal/icefish)
 # How do we answer the proposed question?
-#####Using developmental biology and comparing genomes.
+##### Using developmental biology and comparing genomes.
 # Is DNA available?
-#####[Complete mitochondrial genome of the Antarctic icefish](http://www.tandfonline.com/doi/abs/10.3109/19401736.2013.861444?journalCode=imdn20)
+##### [Complete mitochondrial genome of the Antarctic icefish](http://www.tandfonline.com/doi/abs/10.3109/19401736.2013.861444?journalCode=imdn20)
 
 
