@@ -13,8 +13,10 @@ Information on the jellyfish "brain":
 
 #### How does the diversity (mainly characterized in its variation in color and shape) of jellyfish allow them to better survive in the deep sea?
 *A Purple-Striped Jelly*
+___
 ![Purple-Striped Jelly](https://upload.wikimedia.org/wikipedia/commons/f/f1/Chrysaora_Colorata.jpg "Purple-Striped Jelly")
 *A Flower Hat Jelly*
+___
 ![Flower Hat Jelly](https://upload.wikimedia.org/wikipedia/commons/2/2d/Olindias_formosa1.jpg "Flower Hat Jelly")
 
 Although these two jellies are part of the same family, they are very *very* distinct in appearance.
