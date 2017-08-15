@@ -29,3 +29,11 @@ By answering these questions, I also hope to solve the puzzle of Adélie Penguin
  * What species did Adélie Penguins originate from?
 
 Lastly, I'd like to investigate the differences between the genomes of Adélie Penguins and Emperor Penguins, as well as understand how they have come to evolve differently, and perhaps how recent climate change would affect the scarse population of the Adélie Penguins.
+
+## Genetic Info
+
+According to M. D. Lambert, J. Wang, and G. Zhang, on [Genomic data from Adelie penguin (*Pygoscelis adeliae*)](http://gigadb.org/dataset/100006), *the assembled scaffolds of high quality sequences* of a male Adélie penguin *total 1.23 Gb.* This equates to 1.23 billion nucleotides. 
+
+PacBio, a sequencing company, has a coverage of 30 times. Therefore, the sequencing will take 30 x 1.23G, or 36.9 Gigabytes. PacBio's SMRT Cell reads about 5-8 Gb. In order to cover the sequencing of an Adélie Penguin genome, a total of 5-8 SMRT Cell reads.
+
+The unit price for a PacBio SMRT Cell read is $1134, with library preparation of $388. Using Duke University's cost estimation algorithm, the total cost of sequencing an Adélie Penguin genome calculates to $6000-9500.
