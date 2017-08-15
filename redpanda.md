@@ -1,5 +1,15 @@
 # Red panda
 
+###Here are some of the coverage ratios:
+
+######(B is for Billion)
+####Illumina - 3B X 70 = 210B
+####Pacbio – 3B X 30 = 90B
+####Sanger – 3B X 10 = 30B
+
+
+
+
 
 ### The red panda (Ailurus fulgens), also called the lesser panda, the red bear-cat, and the red cat-bear, is a mammal native to the eastern Himalayas and southwestern China.
 ### It has reddish-brown fur, a long, shaggy tail, and a waddling gait due to its shorter front legs; it is slightly larger than a domestic cat.
@@ -8,6 +18,7 @@
 ### The red panda is the only living species of the genus Ailurus and the family Ailuridae.
 ### It has been previously placed in the raccoon and bear families, but the results of phylogenetic analysis provide strong support for its taxonomic classification in its own family, Ailuridae, which is part of the superfamily Musteloidea along with the weasel, raccoon and skunk families. Two subspecies are recognized.
 ### It is not closely related to the giant panda, which is a basal ursid.
+
 
 
 # Questions
