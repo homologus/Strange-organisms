@@ -1,4 +1,4 @@
-# Icefish
+# Icefish by Adithi
 [Icefish Video](https://www.youtube.com/watch?v=4DKC7uX83Tk)
 ### Question:
 ##### 1. How do ice fish survive without hemoglobin? 
