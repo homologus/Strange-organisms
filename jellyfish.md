@@ -29,12 +29,12 @@ Although these two jellies are part of the same family, they are very *very* dis
 The Moon Jelly is a common jelly that is found throughout most of the world's oceans.
 > The jellyfish is translucent, usually about 25–40 cm (10–16 in) in diameter, and can be recognized by its four horseshoe-shaped gonads, easily seen through the top of the bell. It feeds by collecting medusae, plankton, and mollusks with its tentacles, and bringing them into its body for digestion. It is capable of only limited motion, and drifts with the current, even when swimming.
 
-The moon jelly has around 730 megabases in its genome. It would take around 3 SMRT cells to fully sequence a moon jelly's genome which would cost about 3000 dollars in total.
+The moon jelly has around 730 megabases in its genome. It would take around 5 SMRT cells, using PacBio's sequencing technology, to fully sequence a moon jelly's genome which would cost about 5000 dollars in total.
 
 ![Moon Jelly](https://upload.wikimedia.org/wikipedia/commons/2/27/Moon_jellyfish_at_Gota_Sagher.JPG "Moon Jelly")
-___
+
 ### Box Jellyfish
 
 ![Box Jellyfish](https://upload.wikimedia.org/wikipedia/commons/b/bc/Avispa_marina_cropped.png "Box Jellyfish")
 
-One specific jellyfish called the Box Jellyfish has 8 billion nucleotides in its genome. Reading the genome with illumina requires 40000000 reads.  
+One specific jellyfish called the Box Jellyfish has 8 billion nucleotides in its genome. Reading the genome with Illumina requires 40000000 reads.  
