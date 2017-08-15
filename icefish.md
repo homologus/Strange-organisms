@@ -7,8 +7,9 @@
 # Description of Icefish
 [Information about Icefish](https://www.britannica.com/animal/icefish)
 # How do we answer the proposed question?
-##### Using developmental biology and comparing genomes.
-# Is DNA available?
+##### Using developmental biology and comparative genome-wide analysis.
+# Is DNA/Information available?
 ##### [Complete mitochondrial genome of the Antarctic icefish](http://www.tandfonline.com/doi/abs/10.3109/19401736.2013.861444?journalCode=imdn20)
-
-
+##### [Genome Size Estimation and Genome Assembly of Chinese clearhead icefish](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5530312/)
+##### [Draft genome sequence and annotation for N. coriiceps](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0468-1)
+##### [Transcriptomics and Comparative Analysis of Three Antarctic Notothenioid Fishes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3420891/)
