@@ -21,5 +21,7 @@ ___
 ![Flower Hat Jelly](https://upload.wikimedia.org/wikipedia/commons/2/2d/Olindias_formosa1.jpg "Flower Hat Jelly")
 
 Although these two jellies are part of the same family, they are very *very* distinct in appearance.
+___
+![Box Jellyfish](https://en.wikipedia.org/wiki/Box_jellyfish#/media/File:Avispa_marina_cropped.png"Box Jellyfish")
 
-One specific jellyfish called the Box Jellyfish has 8000000000 nucleotides in its genome. Reading the genome with illumina requires 40000000 reads. 
+One specific jellyfish called the Box Jellyfish has 8000000000 nucleotides in its genome. Reading the genome with illumina requires 40000000 reads.  
