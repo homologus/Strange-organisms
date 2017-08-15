@@ -1,11 +1,11 @@
 # Red panda
 
-###Here are some of the coverage ratios:
+### Here are some of the coverage ratios:
 
-######(B is for Billion)
-####Illumina - 3B X 70 = 210B
-####Pacbio – 3B X 30 = 90B
-####Sanger – 3B X 10 = 30B
+###### (B is for Billion)
+#### Illumina - 3B X 70 = 210B
+#### Pacbio – 3B X 30 = 90B
+#### Sanger – 3B X 10 = 30B
 
 
 
