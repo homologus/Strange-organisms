@@ -20,3 +20,7 @@
 * Evolution can be answered partially with genetics, but a larger perspective on their environments and competitors is needed to understand the motivation behind such a change. 
 * Sexual dimorphism happens both because of genetics and environment. 
 * Relatives can easily be found using the tree of life, which is constructed by comparing genetic information between organisms.
+## Cost of sequencing
+* PacBio Sequel: $2088 (6 SMRT cells)
+* Illumina HiSeq2500: $14430 (5 2x150 lanes)
+* Illumina HiSeq4000: $3025 (1 2x150 lane)
