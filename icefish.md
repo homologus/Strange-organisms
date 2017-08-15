@@ -6,7 +6,7 @@
 ##### 3. How can its' properties serve as evolutionary models for human anemias?
 # Description of Icefish
 [Information about Icefish](https://www.britannica.com/animal/icefish)
-# How do we answer the proposed question?
+# How do we answer the proposed questions?
 ##### Using developmental biology and comparative genome-wide analysis.
 # Is DNA/Information available?
 ##### [Complete mitochondrial genome of the Antarctic icefish](http://www.tandfonline.com/doi/abs/10.3109/19401736.2013.861444?journalCode=imdn20)
